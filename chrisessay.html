@@ -40,6 +40,8 @@
   background-color: rgba(0,255,0,0.3); /* green background with opacity */
   z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
   cursor: pointer; /* Add a pointer on hover */
+      
+      
 }
   </style>
 </head>
@@ -99,15 +101,26 @@ But design is a crucial function of these forces that are killing our future. If
     <span class="byline">Essay by Chris Swift </span>
 </p>
 
+  
+  <div id="overlay" onclick="off()"></div>
+
+<div style="padding:20px">
+  <h2>Overlay</h2>
+  
+  <button onclick="on()">Buy now!!!</button>
+</div>
+
 <script>
-   function on() {
+function on() {
   document.getElementById("overlay").style.display = "block";
 }
 
 function off() {
   document.getElementById("overlay").style.display = "none";
 }
-  </script>
+</script>
+  
+ 
   
 </body>
 
