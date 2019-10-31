@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            h1 {
+                font-family: sans-serif;}
+            
+            body {
+                font-family: sans-serif;}
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Olivia's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <a href="#first-post"> <li>First post!</li></a>
+            <a href="#second-post"><li>Second post!</li></a>
+            
+        </ul>
+        
+        <h2 id="first=post">First post</h2>
+        <h6>Posted on April 16, 2019</h6>
+        
+        <p>Ok, it’s 1:04 p.m. I’m in the public library. The library is an interesting place. When I was little I used to love going to my library because it was the only place  I knew of to get books, or if I was lucky, a movie. It was nice to change it up from the circulation of the Disney VHSs we owned*. Now I can get a book while sitting on my couch, and choosing a movie has become less exciting. 
+
+Now, the library, well, kind of feels like a nursing home. A few weeks ago I sat on one of the cushy chairs downstairs and it smelled like old people, and not the cute grandma kind of smell. It brought back memories of sitting on a couch in my grandpa’s Alzheimer’s facility that had clearly been soiled and subsequently poorly cleaned more times that I care to estimate. Today I’m sitting upstairs in one of those wooden cubby desks– a piece of furniture that thankfully doesn’t retain the odors of probably anything unless one tried very hard. 
+
+I took my dog Ellie on a walk today. While we walked down one of the long neighborhood-y streets called Commonwealth, and I was wondering, as I have been for years now, about people who stay in their hometowns versus people who leave, and what it says about a person and where I fall in these categories. 
+
+Technically, I don’t live in the place I was born and went to high school, Rochester, NY. My parents now live in Pittsfield, MA, which is where I live with them. But I still consider this hometown territory. 
+
+I’ve always felt that I owe it to myself to live outside my hometown, so I’ve tried to get out there– I’ve had stints in New Hampshire, Pennsylvania, and Utah– and now I’m getting ready to go back to Utah, but I have mixed feelings about it. My job will be less creative than the one I had last year and I already feel like I’m in a prison when I read the employee handbook. And I requested time off to go to the Letterwest conference in June and another girl had already requested off those exact dates so I can’t go. Fuckkk that. I hate not being able to do what I want, or not even do what I want, but I hate being constricted like this, just like how I hate jobs like my MASS MoCA job that have strict 30 minute lunchtimes– jobs that treat me like a collection of flesh with a brain capable of operating an iPad. I should’ve used my 7 hours of paid time off I accumulated at MoCA god dammit. Listen to that! 7 measly hours! 
+
+I like exploring other places but I also like the comfort of a home. 
+
+*The best place to get a movie was Blockbuster. Ah, I can hear the Hollywood corporate gods now, singing like angels over all of the fallen Blockbusters. Our Blockbuster was on University Ave in Rochester. Now it’s a Verizon store. 
+</p>
+
+<h2 id="second-post"> Second post</h2>
+        <h6>Posted on April 17, 2019</h6>
+        
+        <p>Today is Wednesday. Tara’s coming home tomorrow and then Chloe on Friday. Chloe is bringing her boyfriend but I wish she wouldn’t. They broke up last month and then got back together after a week and a half. It’s Chloe’s first boyfriend. She’s not very communicative. Extremely reticent. She didn’t even tell Tara she’d got back together with Max–I was the one who told her, and still two weeks after I’d told Tara Chloe still hadn’t told her about the reconciliation. Chloe didn’t go into details with me. “I don’t want to talk about it,” she says. So I’m not thrilled she’s invited him back home at all, withouthout giving us the details and also now I don’t like him or the prospect of his visit. The whole dynamic is gonna be different and this’ll be the last time I’ll see either Tara or Chloe for a while. 
+
+I swear I could be happy if Tara or Chloe brought home a boyfriend. I just wish he were nice and didn’t already seem to break her heart once, after only a couple of months. 
+
+So this whole entry is one big complaint. 
+
+
+        </p>
+        
+    </body>
+</html>
