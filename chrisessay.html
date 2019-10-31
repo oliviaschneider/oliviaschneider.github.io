@@ -53,6 +53,24 @@
   
 <body>
   <div id="overlay"></div>
+  
+  <div id="overlay" onclick="off()"></div>
+
+<div style="padding:20px">
+  <h2>Overlay</h2>
+  
+  <button onclick="on()">Buy now!!!</button>
+</div>
+
+<script>
+function on() {
+  document.getElementById("overlay").style.display = "block";
+}
+
+function off() {
+  document.getElementById("overlay").style.display = "none";
+}
+</script>
   <h1> Shopping for new shoes in times of crisis. </h1>
   <br>
   <br>
@@ -102,23 +120,7 @@ But design is a crucial function of these forces that are killing our future. If
 </p>
 
   
-  <div id="overlay" onclick="off()"></div>
-
-<div style="padding:20px">
-  <h2>Overlay</h2>
-  
-  <button onclick="on()">Buy now!!!</button>
-</div>
-
-<script>
-function on() {
-  document.getElementById("overlay").style.display = "block";
-}
-
-function off() {
-  document.getElementById("overlay").style.display = "none";
-}
-</script>
+ 
   
  
   
