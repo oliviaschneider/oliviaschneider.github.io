@@ -68,6 +68,11 @@ function calcSpeed(prev, next) {
 
 <!-- end of ice cream animation -->
      
+     $(document).ready(function(){
+    animateDiv();
+    
+});
+
      function makeNewPosition(){
     
     // Get viewport dimensions (remove the dimension of the div)
