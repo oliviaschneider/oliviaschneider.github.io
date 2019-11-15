@@ -49,7 +49,7 @@ function calcSpeed(prev, next) {
         var width = $(document).width();
 
         function goRight() {
-            $("#ice-cream-climate").animate({
+            $("#animate").animate({
             left: width
           }, 5000, function() {
              setTimeout(goLeft, 50);
