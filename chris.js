@@ -66,6 +66,5 @@ function calcSpeed(prev, next) {
         setTimeout(goRight, 50);
     });
 
-<!-- end of ice cream animation -->
      
    
