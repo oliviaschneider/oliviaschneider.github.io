@@ -7,3 +7,9 @@ canvas {
   border: 1px solid black;
     margin: auto;
 }
+p {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+}
+
